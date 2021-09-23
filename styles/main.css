@@ -1,0 +1,281 @@
+h1, h2 {
+  text-align: center;
+}
+
+/* Header */
+
+#head_container nav{
+  height: 100px;
+  display: flex;
+  align-items: center;
+}
+
+#head_container img {
+  height: 100px;
+}
+
+#head_container a,  #head_container .sidenav li>a{
+  color: rgba(0,0,0,0.7);
+  text-decoration: none;
+  margin: 0px 20px;
+  font-size: 25px;
+  line-height: 0;
+  padding: 0;
+  font-weight: normal;
+}
+
+#logo {
+  margin: auto 20px !important;
+}
+
+#head_container a:hover, #head_container .sidenav li>a:hover{
+  color: black;
+  background-color: white;
+}
+
+#head_container .sidenav-trigger {
+  margin-left: auto;
+}
+
+@media only screen and (min-width: 721px) {
+  #head_container .sidenav-trigger {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 720px) {
+  #head_container nav a {
+    display: none;
+  }
+  #head_container .sidenav-trigger, #logo {
+    display: inline !important;
+  }
+}
+
+
+#head_container .sidenav .user-view{
+  display: flex;
+  justify-content: center;
+  margin: 30px 0px;
+  padding: 0px;
+}
+
+#head_container .material-icons {
+  font-size: 30px;
+}
+
+/* Quarantäne */
+
+.card {
+  display: grid;
+  grid-template-rows: auto auto auto;
+  justify-items: center;
+
+}
+#quarantaene_zimmer .card {
+  max-width: 700px;
+  margin: 25px auto;
+}
+
+#quarantaene_zimmer .card-image {
+  max-width: 700px;
+}
+
+#quarantaene_zimmer .card-content{
+  font-size: 20px;
+}
+
+#qurantaene_zimmer img {
+  height: 500px;
+}
+
+#quaran_con {
+  width: 80%;
+  margin: auto;
+}
+
+#quaran_table {
+  overflow-x: scroll;
+}
+
+#quaran_con table img {
+ height: 200px;
+ margin: auto;
+ display: flex;
+}
+
+#qurantaene_zimmer .valign-wrapper {
+  width: 30%;
+}
+
+.card_img > div{
+  height: 100%;
+  display: flex;
+}
+
+.card_img img {
+  object-fit: cover;
+}
+
+/* Index */
+
+#index_container .carousel {
+  height: 700px;
+}
+
+#index_container .carousel img {
+  object-fit: cover;
+}
+
+#index_container .carousel p {
+  position: absolute;
+  top: 0px;
+  right: 10px;
+  font-size:  15px;
+}
+
+#index_container .indicator-item {
+  height: 20px;
+  width: 20px;
+}
+
+/* Seoul Old */
+
+#seoul-con h1 {
+  margin: 20px auto;
+  width: 80%
+}
+  
+#seoul-con .collapsible {
+  margin: auto;
+  width: 80%;
+}
+
+#seoul-con .section .header {
+  display: flex;
+  color: black;
+  align-items: center;
+}
+
+#seoul-con .section a {
+  max-width: 100%;
+}
+
+/* Seoul */
+
+#seoul_k-con .collapsible {
+  margin: 20px auto;
+  width: 80%;
+}
+
+.seoul_k a {
+  width: 100%;
+  height: 400px;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.seoul_k a img {
+  width: 100%;
+  transition: transform 1s, filter 1s ease-in-out;
+  filter: blur(4px);
+  object-fit: cover;
+  
+}
+
+.seoul_k a:hover img {
+  transform: scale(1.1);
+  filter: blur(0px);
+}
+
+.seoul_k-text {
+  color: white;
+  font-size: 50px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+/* Seoul_f */
+
+#seoul_f-con {
+  max-width: 1000px;
+  margin: auto;
+}
+
+#seoul_f-con h1 {
+  width: 80%;
+  margin: 20px auto;
+}
+
+#seoul_f-con p {
+  width: 80%;
+  margin: auto;
+}
+
+#seoul_f-img img, #seoul_f-img iframe {
+  width: 80%;
+  margin: 25px auto;
+}
+
+#seoul_f-img iframe {
+  height: 500px;
+  display: block;
+}
+
+@media only screen and (max-width: 600px) {
+  #seoul_f-img iframe {
+    height: 250px;
+  }
+}
+
+#seoul_f-img .hk{
+  width: 55%;
+}
+
+/* Kategorien */
+
+#kat-con .section .header {
+  display: flex;
+  color: black;
+  align-items: center;
+}
+
+/* Uni */
+
+#uni-con {
+  width: 80%;
+  margin: auto;
+}
+
+#uni-con .collapsible {
+  margin: auto;
+  width: 80%;
+}
+
+#uni-con .card {
+  max-width: 700px;
+  margin: 25px auto;
+}
+
+#uni-con .card-image {
+  max-width: 700px;
+}
+
+#uni-con .card-content{
+  font-size: 20px;
+}
+
+/* Footer */
+
+#footer {
+  color: rgba(0, 0, 0, .5);
+  text-align: center;
+  margin-top: 10px;
+  padding: 5px;
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
