@@ -1,5 +1,13 @@
 h1, h2 {
   text-align: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+@media only screen and (max-width: 600px) {
+  .parallax-container {
+      height: 250px;
+  }
 }
 
 /* Header */
@@ -37,21 +45,35 @@ h1, h2 {
   margin-left: auto;
 }
 
-@media only screen and (min-width: 721px) {
+#dropdown1  {
+  width: 200px !important;
+  height: 302px !important;
+}
+
+#dropdown1 a {
+  margin-top: 24px;
+}
+
+@media only screen and (min-width: 851px) {
   #head_container .sidenav-trigger {
     display: none;
   }
+
+  #head_container .dropdown-trigger {
+    display: flex;
+    align-items: center
+  }
+
 }
 
-@media only screen and (max-width: 720px) {
-  #head_container nav a {
-    display: none;
+@media only screen and (max-width: 850px) {
+  #head_container nav a, #dropdown1 {
+    display: none !important;
   }
   #head_container .sidenav-trigger, #logo {
     display: inline !important;
   }
 }
-
 
 #head_container .sidenav .user-view{
   display: flex;
@@ -66,32 +88,33 @@ h1, h2 {
 
 /* Quarantäne */
 
-.card {
-  display: grid;
-  grid-template-rows: auto auto auto;
-  justify-items: center;
-
+#quaran_imgs {
+  width: 80%;
+  margin: auto;
 }
-#quarantaene_zimmer .card {
+
+#quaran_con .collapsible {
+  margin: auto;
+  width: 80%;
+}
+
+#quaran_imgs .card {
   max-width: 700px;
   margin: 25px auto;
 }
 
-#quarantaene_zimmer .card-image {
+#quaran_imgs .card-image {
   max-width: 700px;
 }
 
-#quarantaene_zimmer .card-content{
+#quaran_imgs .card-content{
   font-size: 20px;
 }
 
-#qurantaene_zimmer img {
-  height: 500px;
-}
-
-#quaran_con {
-  width: 80%;
-  margin: auto;
+.card {
+  display: grid;
+  grid-template-rows: auto auto auto;
+  justify-items: center;
 }
 
 #quaran_table {
@@ -102,10 +125,6 @@ h1, h2 {
  height: 200px;
  margin: auto;
  display: flex;
-}
-
-#qurantaene_zimmer .valign-wrapper {
-  width: 30%;
 }
 
 .card_img > div{
@@ -119,26 +138,94 @@ h1, h2 {
 
 /* Index */
 
-#index_container .carousel {
-  height: 700px;
-}
-
-#index_container .carousel img {
+#one img{
+  width: 100%;
   object-fit: cover;
 }
 
-#index_container .carousel p {
+#two {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 100%;
+  padding: 5%;
+}
+
+#two div {
+  width: 100%;
+  font-size: 20px;
+  display: block;
+  margin: auto;
+  padding: 5% 0%;
+}
+
+#two img {
+  width: 100%;
+  padding: 5% 15%;
+}
+
+
+@media only screen and (min-width: 1001px) {
+  
+  #two {
+    grid-template-columns: 33.3% 33.4% 33.3%;
+  }
+
+
+  #text1 {
+    grid-column-start: 1;
+    grid-row-start: 1;
+    grid-column-end: 3;
+  }
+
+  #text2 {
+    grid-column-start: 2;
+    grid-row-start: 2;
+    grid-column-end: 4;
+  }
+
+  #text3 {
+    grid-row-start: 3;
+    grid-column-start: 1;
+  }
+
+  #item1 {
+    grid-column-start: 3;
+    grid-row-start: 1;
+  }
+
+  #item2 {
+    grid-column-start: 1;
+    grid-row-start: 2;
+  }
+
+  #item3 {
+    grid-column-start: 2;
+    grid-row-start: 3;
+    grid-column-end: 4;
+  }
+}
+
+#gotoTwo {
   position: absolute;
-  top: 0px;
-  right: 10px;
-  font-size:  15px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+  color: white;
 }
 
-#index_container .indicator-item {
-  height: 20px;
-  width: 20px;
+
+#korea_map {
+  width: 100%;
+  height: 500px;
 }
 
+@media only screen and (min-width: 1001px) {
+  
+  #korea_map {
+    height: 700px;
+  }
+}
 /* Seoul Old */
 
 #seoul-con h1 {
@@ -200,6 +287,11 @@ h1, h2 {
   text-align: center;
 }
 
+#seoul_map {
+  width: 100%;
+  height: 400px;
+}
+
 /* Seoul_f */
 
 #seoul_f-con {
@@ -217,18 +309,18 @@ h1, h2 {
   margin: auto;
 }
 
-#seoul_f-img img, #seoul_f-img iframe {
+#seoul_f-img img, #seoul_f-img iframe, .seoul_f_map {
   width: 80%;
   margin: 25px auto;
 }
 
-#seoul_f-img iframe {
+#seoul_f-img iframe, .seoul_f_map {
   height: 500px;
   display: block;
 }
 
 @media only screen and (max-width: 600px) {
-  #seoul_f-img iframe {
+  #seoul_f-img iframe, .seoul_f_map  {
     height: 250px;
   }
 }
@@ -237,12 +329,25 @@ h1, h2 {
   width: 55%;
 }
 
+#unterartikel {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  font-size: 20px;
+  margin-bottom: 75px;
+}
+
 /* Kategorien */
 
 #kat-con .section .header {
   display: flex;
   color: black;
   align-items: center;
+}
+
+#kat-con .collapsible {
+  margin: 20px auto;
+  width: 80%;
 }
 
 /* Uni */
@@ -269,6 +374,79 @@ h1, h2 {
 #uni-con .card-content{
   font-size: 20px;
 }
+
+/* Busan */
+
+.busan_coll {
+  width: 80%;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+/* Newsletter */
+
+
+.nl_text, .nl_form {
+  width: 80%;
+  margin: auto;
+}
+
+.nl_text {
+  margin-top: 20px;
+  font-size: 20px;
+}
+
+.nl_form {
+  margin-bottom: 40px;
+}
+
+.nl_button {
+  background: white;
+  padding: 8px;
+  font-size: 20px;
+  border: 2px solid black;
+}
+
+.nl_button:hover {
+  cursor: pointer;
+}
+.nl_button:focus {
+  background: white;
+}
+
+.nl_btn_bad, .nl_btn_bad:focus {
+  background: red;
+  color: white;
+  border: red 1px solid;
+}
+
+.nl_info {
+  color: white;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+  padding-left: 10px;
+}
+
+.nl_form input, .nl_ta {
+  font-size: 20px !important;
+}
+
+
+/* City View */
+
+#city_view_img {
+  width: 100%;
+  margin: auto;
+}
+
+#city_view_img img {
+  width: 95%;
+  display: block;
+  margin: 25px auto;
+}
+
 
 /* Footer */
 

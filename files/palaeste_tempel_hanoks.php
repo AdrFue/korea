@@ -3,7 +3,7 @@
 <div id="kat-con">
 
   <div class="row">
-    <h1>Paläste & Tempel</h1>
+    <h1>Paläste, Tempel und Hanoks</h1>
   </div>
 
 
@@ -15,7 +15,7 @@
     <div class="row container">
       <a href="seoul_f/deoksugung" class="hvr-underline-from-left">
         <h3 class="header">
-          Deoksugung&nbsp;<i class="medium material-icons">arrow_forward</i>
+          Deoksugung Palace&nbsp;<i class="medium material-icons">arrow_forward</i>
         </h3>
       </a>
       </div>
@@ -30,12 +30,39 @@
     <div class="row container">
       <a href="seoul_f/gyeongbokgung" class="hvr-underline-from-left">
         <h3 class="header">
-          Gyeongbokgung&nbsp;<i class="medium material-icons">arrow_forward</i>
+          Gyeongbokgung Palace&nbsp;<i class="medium material-icons">arrow_forward</i>
         </h3>
       </a>
       </div>
   </div>
 
+  <div class="parallax-container">
+    <div class="parallax"><img src="https://drive.google.com/uc?export=view&id=1l4X3v8zr2iOCiGwRUT3ygYVZi0m34K8U"></div>
+  </div>
+
+  <div class="section white z-depth-3">
+    <div class="row container">
+      <a href="seoul_f/namsangol" class="hvr-underline-from-left">
+        <h3 class="header">
+          Namsangol Hanok Village&nbsp;<i class="medium material-icons">arrow_forward</i>
+        </h3>
+      </a>
+      </div>
+  </div>
+  
+  <div class="parallax-container">
+    <div class="parallax"><img src="https://drive.google.com/uc?export=view&id=1F7Bmoln3tXwY_9OlRrzMPvppXbcFEwVi"></div>
+  </div>
+
+  <div class="section white z-depth-3">
+    <div class="row container">
+      <a href="seoul_f/eunpyeong" class="hvr-underline-from-left">
+        <h3 class="header">
+          Eunpyeong Hanok Village&nbsp;<i class="medium material-icons">arrow_forward</i>
+        </h3>
+      </a>
+    </div>
+  </div>
 
   <div class="parallax-container">
     <div class="parallax"><img src="https://drive.google.com/uc?export=view&id=1EMi1BYCwoDlrAmjBpO64pjO_3AJqEhpo"></div>
@@ -45,7 +72,7 @@
     <div class="row container">
       <a href="seoul_f/samcheonsa" class="hvr-underline-from-left">
         <h3 class="header">
-          Samcheonsa&nbsp;<i class="medium material-icons">arrow_forward</i>
+          Samcheonsa Temple&nbsp;<i class="medium material-icons">arrow_forward</i>
         </h3>
       </a>
     </div>
@@ -60,7 +87,7 @@
     <div class="row container">
       <a href="seoul_f/jingwansa" class="hvr-underline-from-left">
         <h3 class="header">
-          Jingwansa&nbsp;<i class="medium material-icons">arrow_forward</i>
+          Jingwansa Temple&nbsp;<i class="medium material-icons">arrow_forward</i>
         </h3>
       </a>
     </div>
@@ -75,7 +102,7 @@
     <div class="row container">
       <a href="seoul_f/bongeunsa" class="hvr-underline-from-left">
         <h3 class="header">
-          Bongeunsa&nbsp;<i class="medium material-icons">arrow_forward</i>
+          Bongeunsa Temple&nbsp;<i class="medium material-icons">arrow_forward</i>
         </h3>
       </a>
     </div>

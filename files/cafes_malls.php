@@ -3,7 +3,7 @@
 <div id="kat-con">
 
   <div class="row">
-    <h1>Parks & Malls</h1>
+    <h1>Cafés & Malls</h1>
   </div>
 
 
@@ -20,22 +20,22 @@
       </a>
     </div>
   </div>
-     
+
 
   <div class="parallax-container">
-    <div class="parallax"><img src="https://drive.google.com/uc?export=view&id=1sjjiETBVKDAHaVZHdH2mu6FptEPur5nG"></div>
+    <div class="parallax"><img src="https://drive.google.com/uc?export=view&id=18rOFJky1CEJQ-Ljxx9sdYaA82TR75duf"></div>
   </div>
 
   <div class="section white z-depth-3">
     <div class="row container">
-      <a href="seoul_f/everland" class="hvr-underline-from-left">
+      <a href="seoul_f/943_kings_cross" class="hvr-underline-from-left">
         <h3 class="header">
-          Everland&nbsp;<i class="medium material-icons">arrow_forward</i>
+          943 King's Cross&nbsp;<i class="medium material-icons">arrow_forward</i>
         </h3>
       </a>
     </div>
   </div>
-  
+
   
   <div class="parallax-container">
     <div class="parallax"><img src="https://drive.google.com/uc?export=view&id=1jrYHUZ-BpSxuarArf-VScqfrhMjoxu4q"></div>
@@ -80,7 +80,37 @@
       </a>
     </div>
   </div>
+
       
+  <div class="parallax-container">
+    <div class="parallax"><img src="https://drive.google.com/uc?export=view&id=1f9AJLmiYe3M7d9gEJxfYio_I9fQpUyOm"></div>
+  </div>
+
+  <div class="section white z-depth-3">
+    <div class="row container">
+      <a href="seoul_f/anime_stores" class="hvr-underline-from-left">
+        <h3 class="header">
+          Anime Stores&nbsp;<i class="medium material-icons">arrow_forward</i>
+        </h3>
+      </a>
+    </div>
+  </div>
+     
+  
+  <div class="parallax-container">
+    <div class="parallax"><img src="https://drive.google.com/uc?export=view&id=17xV9cPU0gAsOO2vo97XwW_2X58lM4hKH"></div>
+  </div>
+
+  <div class="section white z-depth-3">
+    <div class="row container">
+      <a href="seoul_f/techno_mart" class="hvr-underline-from-left">
+        <h3 class="header">
+          Techno Mart&nbsp;<i class="medium material-icons">arrow_forward</i>
+        </h3>
+      </a>
+    </div>
+  </div>
+
 
 </div>
 

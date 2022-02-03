@@ -4,7 +4,7 @@
 ?>
 
   <div id="seoul_f-con">
-    <h1>Jingwansa</h1>
+    <h1>Jingwansa Temple</h1>
 
     <p>
       Der Jingwansa Tempel ist einer der vier Haupttempel in Seoul. Er wurde dem Präzeptor Jingwan im Jahr 1010 von König Hyeonjong gewidmet.
@@ -15,6 +15,7 @@
       Jingwansa auf VisitKorea
       </a>)
     </p>
+    <iframe class="seoul_f_map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3159.470537377888!2d126.9444201155625!3d37.63814032778141!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c97d1629a5c71%3A0xe2db517202625986!2sJingwansa!5e0!3m2!1sde!2skr!4v1632922997274!5m2!1sde!2skr" loading="lazy"></iframe>
 
     <div id="seoul_f-img">
       <img src="https://drive.google.com/uc?export=view&id=12AQiIGC9iuEewCgUPjG_wXdVwrxgC02a" class="materialboxed z-depth-4">

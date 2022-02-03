@@ -22,6 +22,7 @@
       N Seoul Tower auf Wikipedia
       </a>)
     </p>
+    <iframe class="seoul_f_map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3163.165108154973!2d126.98603791556073!3d37.55117363276486!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca257a88e6aa9%3A0x5cf8577c2e7982a5!2sN%20Seoul%20Tower!5e0!3m2!1sde!2skr!4v1632923087929!5m2!1sde!2skr" loading="lazy"></iframe>
 
     <div id="seoul_f-img">
       <img src="https://drive.google.com/uc?export=view&id=1U9iWCyra9rYDq3e3WgkZbpjhhVV6DRPe" class="materialboxed z-depth-4">

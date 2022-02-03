@@ -4,7 +4,7 @@
 ?>
 
   <div id="seoul_f-con">
-    <h1>Seokjojeon</h1>
+    <h1>Seokjojeon Museum</h1>
 
     <p>
       Seokjojeon bedeutet Steinhaus. Mit seinem westlichen Stil passt es nicht ganz zu den anderen Gebäuden.
@@ -18,6 +18,7 @@
       Seokjojeon im Deoksugung Palace
       </a>)
     </p>
+    <iframe class="seoul_f_map"  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3162.521040123721!2d126.97203471556095!3d37.56634673189608!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca28d1c4d8fab%3A0x875095eb749b4641!2sSeogjojeon!5e0!3m2!1sde!2skr!4v1632923273968!5m2!1sde!2skr" loading="lazy"></iframe>
 
     <div id="seoul_f-img">
       <img src="https://drive.google.com/uc?export=view&id=1BPqpiyflXSInnyBxfytp1hfoecSWFMMa" class="materialboxed z-depth-4">

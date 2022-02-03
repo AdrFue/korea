@@ -2,7 +2,7 @@
 
 <div id="uni-con">
 
-  <h1>Universität</h1>
+  <h1>Konkuk University</h1>
 
   <ul class="collapsible">
       <li>
@@ -28,6 +28,13 @@
       </div>
       <div class="card-content valign-wrapper">Korea in einem Bild</div>
     </div>
+   
+    <div class="card horizontal">
+      <div class="card-image card_img">
+        <img src="https://drive.google.com/uc?export=view&id=1sPhthu_DhbyAk3monfkJzIiSIuWBvcfp" class="materialboxed">
+      </div>
+      <div class="card-content valign-wrapper">Weil der Bulle so niedlich ist</div>
+    </div>
   
     <div class="card horizontal">
       <div class="card-image card_img">
@@ -40,39 +47,79 @@
 
 
   <h2 class="centered">Campus</h2>
-  <div id="campus">
 
     <div class="card">
       <div class="card-image card_img">
-        <img src="https://drive.google.com/uc?export=view&id=1tX1XX0JZ-76HY7HvD-d1GSVm1XEvCCkf" class="materialboxed">
+        <img src="https://drive.google.com/uc?export=view&id=1y3eSdmBnDa8WoZtQcOfXpj_1J1hRPsDf" class="materialboxed">
       </div>
       <div class="card-content valign-wrapper">Campus-See #1</div>
     </div>
 
     <div class="card">
       <div class="card-image card_img">
-        <img src="https://drive.google.com/uc?export=view&id=1Fz9BD7GF0Z7zcQKmvGv1XOSjaITaCNfi" class="materialboxed">
+        <img src="https://drive.google.com/uc?export=view&id=1M0XBn2LVQ35aOazp_ipAguCvzg3uT6YT" class="materialboxed">
       </div>
       <div class="card-content valign-wrapper">Campus-See #2</div>
     </div>
     
     <div class="card">
       <div class="card-image card_img">
+        <img src="https://drive.google.com/uc?export=view&id=1PHWChifI6gOm0GbcH5HG5iTO6bGt3ahR" class="materialboxed">
+      </div>
+      <div class="card-content valign-wrapper">Campus-See #3</div>
+    </div>
+     
+    <div class="card">
+      <div class="card-image card_img">
+        <img src="https://drive.google.com/uc?export=view&id=1zMQr2PoDpSWKwGo6w3L6BsfMGE40QR0z" class="materialboxed">
+      </div>
+      <div class="card-content valign-wrapper">Campus-See bei Nacht</div>
+    </div>
+
+    <div class="card">
+      <div class="card-image card_img">
+        <img src="https://drive.google.com/uc?export=view&id=1F6d9nNe7Q2X-ismDLFpuSH83CH2n-m9Z" class="materialboxed">
+      </div>
+      <div class="card-content valign-wrapper">Sicht von oben</div>
+    </div>
+        
+    <div class="card">
+      <div class="card-image card_img">
+        <img src="https://drive.google.com/uc?export=view&id=1mAbo-sncAWtZWsIjhU5UIoGHn7-tNGwu" class="materialboxed">
+      </div>
+      <div class="card-content valign-wrapper">Statue unseres Bullens</div>
+    </div>   
+      
+    <div class="card horizontal">
+      <div class="card-image card_img">
+        <img src="https://drive.google.com/uc?export=view&id=1JmaoGGQ8d97tzLljxTdd_tgMq680ZmhE" class="materialboxed">
+      </div>
+      <div class="card-content valign-wrapper">Eines der Gebäude von innen</div>
+    </div>
+
+
+    <div class="card">
+      <div class="card-image card_img">
         <img src="https://drive.google.com/uc?export=view&id=1dkGEWqQpg_v2inYD0OqmKeQ2jXFgwIXa" class="materialboxed">
       </div>
       <div class="card-content valign-wrapper">Hier ruht der Gründergeist</div>
     </div>
-  </div>
 
 
   <h2 class="centered">Dorm</h2>
-  <div id="dorm">
 
   <div class="card horizontal">
       <div class="card-image card_img">
         <img src="https://drive.google.com/uc?export=view&id=18mN1QzEAoLtPIWYN5uCq9JYHFdJqdu4l" class="materialboxed">
       </div>
       <div class="card-content valign-wrapper">Zimmer im Dorm</div>
+    </div>
+
+    <div class="card">
+      <div class="card-image card_img">
+        <img src="https://drive.google.com/uc?export=view&id=14Pz8bxFI5od6JyGXQVwDwKr4cSvizOzg" class="materialboxed">
+      </div>
+      <div class="card-content valign-wrapper">Dorm von außen</div>
     </div>
 
     <div class="card">
@@ -88,7 +135,6 @@
       </div>
       <div class="card-content valign-wrapper">Aussicht bei Nacht</div>
     </div>
-  </div>
 
 
 </div>

@@ -44,33 +44,42 @@
     </div>
 
     <div class="seoul_k">
-      <a href="palaeste_tempel">
+      <a href="palaeste_tempel_hanoks">
         <img src="https://drive.google.com/uc?export=view&id=1X6gG5FPL9yaEiuutxNIcSi1khdFk9sEK">  
-        <div class="seoul_k-text">Paläste & Tempel</div>
+        <div class="seoul_k-text">Paläste, Tempel & Hanoks</div>
       </a>
     </div>
 
     <div class="seoul_k">
-      <a href="bezirke_hanoks">
+      <a href="bezirke">
         <img src="https://drive.google.com/uc?export=view&id=14KNBIALJQHBb34m5yBd_A_bbKlQ_W4Nh">   
-        <div class="seoul_k-text">Bezirke & Hanoks</div>
+        <div class="seoul_k-text">Bezirke</div>
       </a>
     </div>
 
     <div class="seoul_k">
-      <a href="parks_malls">
+      <a href="cafes_malls">
         <img src="https://drive.google.com/uc?export=view&id=1q4mv--CMwZciTynHTI8NfPtYn8v1mdNj"> 
-        <div class="seoul_k-text">Parks & Malls</div>
+        <div class="seoul_k-text">Cafés & Malls</div>
       </a>
     </div>
 
     <div class="seoul_k">
-      <a href="mehr">
-        <img src="https://drive.google.com/uc?export=view&id=1yQ3p4vYg0H030xNCUhqD6MZn9V_LkRxd">  
-        <div class="seoul_k-text">Und Mehr...</div>
+      <a href="museen">
+        <img src="https://drive.google.com/uc?export=view&id=136up6c4FP9cu4k-pfNS8PHnvtBXL48pi">  
+        <div class="seoul_k-text">Museen</div>
       </a>
     </div>
 
+    <div class="seoul_k">
+      <a href="freizeit_parks">
+        <img src="https://drive.google.com/uc?export=view&id=1_1dbOoWJpPMNcm1GiLOZvTDqUSft4h3m">  
+        <div class="seoul_k-text">(Freizeit) Parks</div>
+      </a>
+    </div>
+
+
+    <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1_MdPO16Xru8xewNw22UTG0hzL3PvLxDG&ehbc=2E312F" id="seoul_map"></iframe>
 
   </div>
 

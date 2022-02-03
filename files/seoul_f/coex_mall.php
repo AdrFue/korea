@@ -16,7 +16,8 @@
       COEX Mall auf Wikipedia
       </a>)
     </p>
-
+    <iframe class="seoul_f_map"  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3164.840102855147!2d127.05715071555997!3d37.511689235024534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca2012d6bd01b%3A0x30702ebd32133065!2z7Iqk7YOA7ZWE65OcIOy9lOyXkeyKpOuqsA!5e0!3m2!1sde!2skr!4v1632922452586!5m2!1sde!2skr" loading="lazy"></iframe>
+    
     <div id="seoul_f-img">
       <img src="https://drive.google.com/uc?export=view&id=1Vmqh4-ngXS7x7zllUG4OVRol7KFzeDXU" class="materialboxed z-depth-4">
       <img src="https://drive.google.com/uc?export=view&id=16NIfTYmo_Q7UEXJkHeHIPP9tRck9-As2" class="materialboxed z-depth-4 hk">  

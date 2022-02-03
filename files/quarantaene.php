@@ -84,9 +84,12 @@ $gd_link = "https://drive.google.com/uc?export=view&id=";
             </div>
           </li>
       </ul>
+      
+      <iframe class="seoul_f_map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17887.948358772122!2d126.98130294289632!3d37.57455797760593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca2dc50a26c8d%3A0x8250ea36ca52434!2sibis%20Ambassador%20Seoul%20Insadong!5e0!3m2!1sde!2skr!4v1639284758277!5m2!1sde!2skr" loading="lazy"></iframe>
 
+     
       <h2 class="centered">Zimmer</h2>
-      <div id="quarantaene_zimmer">
+      <div id="quaran_imgs">
         <div class="card horizontal">
           <div class="card-image card_img">
             <img src="https://drive.google.com/uc?export=view&id=1eKYFZNbpJWjRmo_1d8-cdv39MDkKRlsN" class="materialboxed">
@@ -113,6 +116,20 @@ $gd_link = "https://drive.google.com/uc?export=view&id=";
         </div>
         <div class="card horizontal">
           <div class="card-image card_img">
+            <img src="https://drive.google.com/uc?export=view&id=1xNBERSJe8UnYpM55l0SJAW7s5-4LCT3y" class="materialboxed">
+          </div>
+          <div class="card-content valign-wrapper">Der gesamte Müll der beiden Wochen.</div>
+        </div>
+        <div class="card">
+          <div class="card-image card_img">
+            <img src="https://drive.google.com/uc?export=view&id=1LdRlUzsLUxqOV_eZxdBT6EbcQa1kBbCo" class="materialboxed">
+          </div>
+          <div class="card-content valign-wrapper">So sieht das Zimmer am Ende aus.</div>
+        </div>
+        
+        <h2 class="centered">Testzentrum</h2>
+        <div class="card horizontal">
+          <div class="card-image card_img">
             <img src="https://drive.google.com/uc?export=view&id=1GC5n_HJpbLI43zjkkqAIGwGw-Z86Vss4" class="materialboxed">
           </div>
           <div class="card-content valign-wrapper">Die Schlange vor dem Health Center für den PCR-Test.</div>
@@ -125,17 +142,21 @@ $gd_link = "https://drive.google.com/uc?export=view&id=";
             In der kleinen Kammer rechts wird das Stäbchen in die Nase gesteckt.
           </div>
         </div>
-        <div class="card horizontal">
-          <div class="card-image card_img">
-            <img src="https://drive.google.com/uc?export=view&id=1xNBERSJe8UnYpM55l0SJAW7s5-4LCT3y" class="materialboxed">
-          </div>
-          <div class="card-content valign-wrapper">Der gesamte Müll der beiden Wochen.</div>
-        </div>
+
+        <h2 class="centered">Gebäude</h2>
         <div class="card">
           <div class="card-image card_img">
-            <img src="https://drive.google.com/uc?export=view&id=1LdRlUzsLUxqOV_eZxdBT6EbcQa1kBbCo" class="materialboxed">
+            <img src="https://drive.google.com/uc?export=view&id=1OVXmfer5YT5ojJOh0qUWz91sAIvM6n3d" class="materialboxed">
           </div>
-          <div class="card-content valign-wrapper">So sieht das Zimmer am Ende aus.</div>
+          <div class="card-content valign-wrapper">Das Quarantäne-Hotel von außen</div>
+        </div>
+        <div class="card horizontal">
+          <div class="card-image card_img">
+            <img src="https://drive.google.com/uc?export=view&id=1MFhc7K-7UZif3p_aXGh4OzhnEBOjFjDd" class="materialboxed" style="object-position: right;">
+          </div>
+          <div class="card-content valign-wrapper">
+            Da oben war ich für zwei Wochen isoliert.
+          </div>
         </div>
       </div>
       

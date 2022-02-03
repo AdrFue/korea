@@ -4,7 +4,7 @@
 ?>
 
   <div id="seoul_f-con">
-    <h1>Bongeunsa</h1>
+    <h1>Bongeunsa Temple</h1>
 
     <p>
       Bongeunsa ist ein bedeutender buddhistischer Tempel.
@@ -22,6 +22,7 @@
       Bongeunsa auf Wikipedia
       </a>)
     </p>
+    <iframe class="seoul_f_map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3164.7058088165627!2d127.05518791556008!3d37.51485623484348!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca46941fa9981%3A0x45689c57c2e44d69!2sBongeunsa!5e0!3m2!1sde!2skr!4v1632922316575!5m2!1sde!2skr" loading="lazy"></iframe>
 
     <div id="seoul_f-img">
       <img src="https://drive.google.com/uc?export=view&id=1UVR3CeghZY-p92xZeGFDGHha6KjmF9HS" class="materialboxed z-depth-4 hk">

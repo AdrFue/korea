@@ -19,6 +19,7 @@
       Everland auf Wikipedia
       </a>)
     </p>
+    <iframe class="seoul_f_map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3174.0514408005324!2d127.20037771555535!3d37.29391464745102!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b5403ce34d773%3A0x1fa18ab619238098!2sEverland!5e0!3m2!1sde!2skr!4v1632922667574!5m2!1sde!2skr" loading="lazy"></iframe>
 
     <div id="seoul_f-img">
       <img src="https://drive.google.com/uc?export=view&id=1mPDwrUnwOnbrYmMPbRwOlTlEWQ9lBgzg" class="materialboxed z-depth-4">
